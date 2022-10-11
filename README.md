@@ -20,8 +20,6 @@ My name is Brendon and I’ll be honest, I didn’t plan on a Career in Web Deve
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/brendon-hampton-37132899/)
 - :wolf: Fun fact: I have a Corgi that seems to outsmart me at every turn
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrendonLH&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
 ## The Tools I Use
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
