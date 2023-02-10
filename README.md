@@ -19,7 +19,7 @@ My name is Brendon and I’ll be honest, I didn’t plan on a Career in Web Deve
   I am now the proud owner of Stack Monky LLC. After CodeFellows, I decided to branch out and make my own company. I am extremely excited to offer awesome products that I have been slowly developing over my years as a Developer. Thank you to Everyone for the support and knowledge that I have been given. 
 
 
-- 🔭 I am the owner of StackMonky.com.
+- 🔭 I am the owner of [StackMonky](https://www.stackmonky.com).
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/brendon-hampton-37132899/)
 - :wolf: Fun fact: I have a Corgi that seems to outsmart me at every turn
 
