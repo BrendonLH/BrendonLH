@@ -1,6 +1,4 @@
-
-<img src="https://bannersimages.brendonlh.repl.co/images/Brendon.jpg">
-
+![Visitor Count](https://profile-counter.glitch.me/brendonlh/count.svg)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -46,3 +44,5 @@ My name is Brendon and I’ll be honest, I didn’t plan on a Career in Web Deve
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+[![Brendon's GitHub stats](https://github-readme-stats.vercel.app/api?username=brendonlh)](https://github.com/anuraghazra/github-readme-stats)
