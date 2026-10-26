@@ -8,13 +8,17 @@
 
 
 
+My name is Brendon, and I’ll be honest—I didn’t exactly plan on a career in technology. I started coding because I enjoyed it, then realized I could actually build something useful with all the ideas bouncing around in my head. Between working on my truck, motorcycles, and taking apart electronics just to see how they work, software seemed like the next logical adventure. Occasionally, I even put things back together.
 
-My name is Brendon and I’ll be honest, I didn’t plan on a Career in Web Development. at first, I coded because I enjoyed it, then I realized that if I want to make something serious out of it, I need to learn the industry and practices. So here I am. I really enjoy solving problems and I am very proficient with technology. Between building my truck, motorcycle and tearing apart any electronics I can get my hands on, The next step in my learning adventure is building programs and software.
- 	
-  I served 5 years in the Marines which taught me how to approach problems from different perspectives and I have always had a learning mindset. I really want to work somewhere that my ambition can thrive and my past sales experience can be utilized. I seek out perfection like anyone else, sometimes that means working together and sometimes that means working alone. I try to balance both.
-  
-  -Update 2023-
-  I am now the proud owner of Stack Monky LLC. After CodeFellows, I decided to branch out and make my own company. I am extremely excited to offer awesome products that I have been slowly developing over my years as a Developer. Thank you to Everyone for the support and knowledge that I have been given. 
+I served five years in the Marines, which taught me persistence, adaptability, and that there’s usually more than one way to solve a problem. I’ve always had a learning mindset. Give me something I don’t understand, and there’s a pretty good chance I’m about to disappear down a rabbit hole until I figure it out.
+
+After Code Fellows, I started Stack Monky LLC to turn that curiosity into websites and software for businesses. Thank you to everyone who has shared their knowledge and supported me along the way!
+
+—Update 2026—
+
+Apparently, websites weren’t enough to keep me busy. I’m now an IoT Technician at Nintendo, where I’ve grown from warehouse operations into building custom software, dashboards, and automation tools. These days, I get to make hardware and software work together to solve real problems—which is pretty much exactly where my curiosity was taking me all along.
+
+Still learning. Still building. Still taking things apart.
 
 
 - 🔭 I am the owner of [StackMonky](https://www.stackmonky.com).
